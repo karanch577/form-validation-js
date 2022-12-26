@@ -8,6 +8,8 @@
 - Password
 - Confirm Password
 
->If any of the field is empty, it will pop up and error
+>If any of the field is empty, it will show an error.
 
->For the password field, it should be 6 characters long, contain uppercase, lowercase, number and special character.
+>For the password field, it should be 6 characters long.
+
+>For the email validation I have used Regex
