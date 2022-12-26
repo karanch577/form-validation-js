@@ -14,6 +14,10 @@
 
 >For the email validation I have used Regex
 
+## live link - [click here](https://form-js-karanch.netlify.app)
+
+## Time taken - 2hrs
+
 ### Screenshots 
 
 ![formvalidation](./images/1.png)
