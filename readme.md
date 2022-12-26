@@ -13,3 +13,15 @@
 >For the password field, it should be 6 characters long.
 
 >For the email validation I have used Regex
+
+### Screenshots 
+
+![formvalidation](./images/1.png)
+
+![formvalidation](./images/2.png)
+
+![formvalidation](./images/3.png)
+
+![formvalidation](./images/4.png)
+
+![formvalidation](./images/5.png)

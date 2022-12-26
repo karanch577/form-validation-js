@@ -44,7 +44,7 @@ const validateEmail = (email) => {
 }
 
 const comparePassword = (password, comparePassword) => {
-    if(password.length < 5) {
+    if(password.length > 0 && password.length < 5) {
         empError.innerText = "Password must be 6 character long"
         form.before(empError)
     }
